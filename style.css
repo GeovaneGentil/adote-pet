@@ -1,0 +1,193 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+.top-bar{
+    background-color: #54DD00;
+    height: 90px;
+    position: sticky;
+    top: 0%;
+}
+
+.titulo{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+    color: white;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    padding: 25px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    word-spacing: 3px;
+}
+
+.conteiner{
+    margin: 0px;
+    padding: 3px;
+    text-align: center;
+}
+
+.cartao{
+    background-color: rgba(213, 238, 217, 0.963);
+    width: 350px;
+    height: 600px;
+    border-radius: 7px;
+    margin: 50px 50px 20px 50px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+#foto{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/melo.jpg);
+    background-size: cover;
+}
+
+#foto2{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/dog.2.jpg);
+    background-size: cover;
+}
+
+#foto3{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/semNome1.jpg);
+    background-size: cover;
+}
+
+#foto4{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/tobi.jpg);
+    background-size:cover;
+}
+
+#foto5{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/semnome2.jpeg);
+    background-size: cover;
+}
+
+#foto6{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/semnome3.jpg);
+    background-size: cover;
+}
+
+#foto7{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/paçoca.jpg);
+    background-size: cover;
+}
+
+#foto8{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/rock.jpg);
+    background-size: cover;
+}
+
+#foto9{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/jade.jpg);
+    background-size: cover;
+}
+
+#foto10{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/gatosemnome.jpg);
+    background-size: cover;
+}
+
+#foto11{
+    height: 50%;
+    width: 100%;
+    background-image: url(./img/gatosemnome2.jpg);
+    background-size: cover;
+}
+
+ul{
+    list-style: none;
+    padding: 0%;
+}
+
+.nome{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    color: #478844;
+    margin-top: 5px;
+}
+
+.add{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 27px;
+    color: #478844;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.botao{
+    background-color: #FFB31E;
+    height: 50px;
+    width: 70%;
+    margin: 5% 10% 0% 10%;
+    padding: 7px 7px 0px 5dvb;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration:none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 27px;
+    color: #ffffff;
+    margin-right: 15%;
+}
+
+.botao:hover{
+    background-color: #54DD00;
+}
+
+
+.bottom-bar{
+    background-color: #54DD00;
+    height: 70px;
+    padding: 15px;
+}
+
+p{
+    color: white;
+    font-size: 23px;
+    text-align: center;
+    margin: 15px;
+}
+
+#linkBottow{
+    font-size: 23px;
+    color: white ;
+    background-color: #FFB31E;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#linkBottow:hover{
+    background-color: #ffffff;
+    color:#FFB31E
+}
